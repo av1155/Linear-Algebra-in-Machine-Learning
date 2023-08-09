@@ -41,9 +41,6 @@ Utilize these notebooks to:
 - Learn Gaussian elimination as a tool for solving linear systems.
 
 ### Contributing
-Contributions are encouraged! If you spot errors, wish to correct typos, or intend to enhance content, please initiate issues or pull requests.
-
-### License
-This repository operates under the MIT License.
+Contributions are encouraged! If you spot errors, wish to correct typos, or intend to enhance the content, please initiate issues or pull requests.
 
 Happy learning! Feel free to reach out through issues or messages if you have queries or suggestions.
