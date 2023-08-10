@@ -113,3 +113,43 @@ a.b
 < a, b >
 
 """
+
+
+'''
+QUIZ 2:
+
+Question 1 of 3
+Which function do we use to calculate a magnitude of a vector?
+
+- lng.norm()
+Correct
+
+Question 2 of 3
+
+What is the property of the basis vectors?
+
+- They aren't unique.
+
+- They are linearly independent.
+
+- all of these answers
+Correct
+
+- They span the whole space.
+
+Question 3 of 3
+What is a property of the dot product? 
+
+A. It is a commutative.
+
+B. It has the same dimensionality.
+
+C. It is distributive over addition.
+
+D. It has orientation and dimensionality.
+
+
+- A,C
+Correct
+
+'''
