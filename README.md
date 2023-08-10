@@ -25,9 +25,9 @@ Feel free to delve into these notebooks to grasp the essentials of linear algebr
 
 To begin your journey with this repository, follow these steps:
 
-Clone the Repository: Clone this repository to your local machine using `git clone https://github.com/your-username/Linear-Algebra-Fundamentals.git`.
+Clone the Repository: Clone this repository to your local machine using `git clone https://github.com/av1155/Linear-Algebra-in-Machine-Learning`.
 
-Install Dependencies: Ensure you have Python and Jupyter Notebook installed. You can install the required packages using pip install jupyter numpy matplotlib.
+Install Dependencies: Ensure you have Python and Jupyter Notebook installed. You can install the required packages using `pip install jupyter numpy matplotlib`.
 
 Access Notebooks: Launch Jupyter Notebook within the repository directory and access the notebooks in your web browser.
 
