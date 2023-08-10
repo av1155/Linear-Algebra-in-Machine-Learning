@@ -31,6 +31,8 @@ Install Dependencies: Ensure you have Python and Jupyter Notebook installed. You
 
 Access Notebooks: Launch Jupyter Notebook within the repository directory and access the notebooks in your web browser.
 
+To access Jupyter Notebooks online, simply copy the GitHub notebook link and then proceed to paste it at this location: <https://nbviewer.org/>.
+
 ## Prerequisites
 
 To make the most of this repository, it's helpful to have a basic understanding of:
